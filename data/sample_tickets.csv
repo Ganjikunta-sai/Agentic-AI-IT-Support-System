@@ -1,0 +1,8 @@
+ticket_id,employee_name,issue,category,impact,urgency,status
+T001,Rahul,VPN is not connecting,Network,High,High,Open
+T002,Anita,Unable to log into company account,Account,Medium,High,Open
+T003,Kiran,Software application keeps crashing,Software,Medium,Medium,Open
+T004,Arjun,VPN authentication failed,Network,High,High,Open
+T005,Priya,Need access to company application,Access,Medium,Low,Open
+T006,Suresh,Entire department cannot access network,Network,High,High,Open
+T007,Meena,Application is running slowly,Software,Low,Low,Open

@@ -1,0 +1,31 @@
+SOFTWARE TROUBLESHOOTING GUIDE
+
+Document: Software Troubleshooting
+Category: Application Support
+
+1. Problem: Software application is not opening
+
+Possible causes:
+- Application files are corrupted.
+- Software is outdated.
+- Insufficient system resources.
+- Required services are not running.
+
+Troubleshooting steps:
+1. Close the application.
+2. Restart the computer.
+3. Try opening the application again.
+4. Check whether software updates are available.
+5. If the problem continues, contact IT support.
+
+2. Problem: Software crashes frequently
+
+Troubleshooting steps:
+1. Restart the application.
+2. Check available disk space.
+3. Close unnecessary applications.
+4. Check for software updates.
+5. Report the error message to IT support.
+
+Escalation:
+If the application continues to crash, IT support should investigate the issue.

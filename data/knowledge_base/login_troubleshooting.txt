@@ -1,0 +1,36 @@
+LOGIN AND ACCOUNT TROUBLESHOOTING GUIDE
+
+Document: Login Troubleshooting
+Category: Account Support
+
+1. Problem: Unable to log in
+
+Possible causes:
+- Incorrect username or password.
+- Expired password.
+- Account locked.
+- Network connectivity issue.
+
+Troubleshooting steps:
+1. Verify the username.
+2. Check the keyboard Caps Lock setting.
+3. Verify the password.
+4. Check whether the account is locked.
+5. Use the approved password-reset process if the password has expired.
+
+Escalation:
+If login still fails, contact IT support.
+
+2. Problem: Account locked
+
+Possible causes:
+- Multiple incorrect login attempts.
+- Security policy restrictions.
+
+Troubleshooting steps:
+1. Stop attempting to log in.
+2. Contact the IT support team.
+3. Request account unlock after identity verification.
+
+Security:
+Never share your password with anyone, including IT support.

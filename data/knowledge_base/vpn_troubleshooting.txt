@@ -1,0 +1,51 @@
+VPN TROUBLESHOOTING GUIDE
+
+Document: VPN Troubleshooting
+Category: Network Support
+
+1. Problem: VPN is not connecting
+
+Possible causes:
+- Internet connection is unavailable.
+- Incorrect VPN username or password.
+- VPN server is temporarily unavailable.
+- VPN client software is outdated.
+- Firewall is blocking the VPN connection.
+
+Troubleshooting steps:
+1. Check whether the internet connection is working.
+2. Disconnect and reconnect the VPN.
+3. Verify the VPN username and password.
+4. Restart the VPN application.
+5. Restart the computer if the issue continues.
+6. Check whether the VPN client needs an update.
+
+Escalation:
+If the VPN still does not connect after these steps, contact the IT support team.
+
+2. Problem: VPN authentication failed
+
+Possible causes:
+- Incorrect login credentials.
+- Expired password.
+- Account locked due to multiple failed login attempts.
+
+Troubleshooting steps:
+1. Verify the username.
+2. Check whether the password has expired.
+3. Reset the password using the approved company password-reset process.
+4. If the account is locked, contact IT support.
+
+Escalation:
+Do not repeatedly attempt to log in if the account is locked. Contact IT support.
+
+3. Problem: VPN connects but internal resources are unavailable
+
+Troubleshooting steps:
+1. Disconnect and reconnect the VPN.
+2. Check whether the correct company VPN profile is selected.
+3. Try accessing the internal resource again.
+4. If the issue continues, contact IT support.
+
+Escalation:
+The IT network team should investigate persistent access problems.

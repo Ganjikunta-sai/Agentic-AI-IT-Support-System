@@ -1,0 +1,9 @@
+ticket_id,issue,category,resolution,status
+T010,VPN authentication failure,Network,IT verified the employee account and completed the approved password reset process,Resolved
+T011,VPN not connecting,Network,IT checked network connectivity and restarted the VPN service,Resolved
+T012,Company account locked,Account,IT verified employee identity and unlocked the account,Resolved
+T013,Unable to login with expired password,Account,Employee completed the approved password reset process,Resolved
+T014,Software application crashing,Software,IT updated the application and restarted the computer,Resolved
+T015,Application running slowly,Software,IT checked system resources and updated the application,Resolved
+T016,Access denied to HR application,Access,IT verified authorization and granted approved application access,Resolved
+T017,VPN connection issue,Network,IT checked the VPN profile and network configuration,Resolved

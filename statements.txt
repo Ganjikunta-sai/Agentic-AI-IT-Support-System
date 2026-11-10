@@ -1,0 +1,40 @@
+pip install -r requirements.txt
+
+python -m src.ingestion.document_loader
+
+python -m src.rag.chunking
+
+python -m src.rag.embeddings
+
+python -m src.rag.vector_store
+
+python -m src.rag.rag_chain
+
+python -m src.agents.classifier
+
+python -m src.tools.ticket_lookup
+
+python -m src.agents.resolution_agent
+
+python -m src.workflow.graph
+
+streamlit run app.py
+
+python -m src.database.database
+
+python -m src.database.init_db ----->for create the database
+
+python -m src.database.crud
+
+python test_error_handler.py
+
+python -m src.workflow.graph
+
+pip install langgraph-checkpoint-postgres "psycopg[binary,pool]"
+
+
+
+
+
+
+python -m scripts.create_admin
